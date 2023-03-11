@@ -1,4 +1,5 @@
 # Chat-Over-LAN-App
-![WhatsApp Image 2023-03-11 at 19 51 32](https://user-images.githubusercontent.com/76389691/224494274-fde41b02-f137-46bb-99db-73caa97546d1.jpg)
+![chat_over_lan](https://user-images.githubusercontent.com/76389691/224494404-96a48a92-44d1-4dd0-a3bb-b04f112c854d.jpg)
+
 
 using Python, Tkinter, Multi-Threading and Sockets programming
